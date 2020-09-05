@@ -1,2 +1,4 @@
 ﻿  TerminalDaVelha.cpp
-  TerminalDaVelha.vcxproj -> C:\Users\muril\Desktop\TerminalDaVelha\Debug\TerminalDaVelha.exe
+C:\Users\muril\Desktop\Git\Publicos\jogo-velha-terminal-c\TerminalDaVelha\TerminalDaVelha.cpp(55): warning C4715: 'ABoard::IsEmpty': nem todos os caminhos de controle retornam um valor
+C:\Users\muril\Desktop\Git\Publicos\jogo-velha-terminal-c\TerminalDaVelha\TerminalDaVelha.cpp(40): warning C4715: 'ABoard::IsFull': nem todos os caminhos de controle retornam um valor
+  TerminalDaVelha.vcxproj -> C:\Users\muril\Desktop\Git\Publicos\jogo-velha-terminal-c\TerminalDaVelha\Debug\TerminalDaVelha.exe

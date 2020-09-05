@@ -1,2 +1,4 @@
 C:\Users\muril\Desktop\TerminalDaVelha\Debug\TerminalDaVelha.exe
 C:\Users\muril\Desktop\TerminalDaVelha\Debug\TerminalDaVelha.pdb
+C:\Users\muril\Desktop\Git\Publicos\jogo-velha-terminal-c\TerminalDaVelha\Debug\TerminalDaVelha.exe
+C:\Users\muril\Desktop\Git\Publicos\jogo-velha-terminal-c\TerminalDaVelha\Debug\TerminalDaVelha.pdb
